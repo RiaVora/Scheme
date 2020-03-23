@@ -1,0 +1,2 @@
+# Scheme
+This code creates a Python interpreter for a subset of the Scheme language. The power of the scheme language lies in its use of simple parentheses, spaces, and other forms of punctuation to create powerful functions and programs. Python is a useful langauge to write the interpreter in as it can deal with the characters for Scheme in a cicint way. For this project, I used the skeletons given in the scheme_reader and scheme_eval files (along with the remaining files) to create a comphrensive interpreter
